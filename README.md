@@ -1,7 +1,11 @@
 <div align="center"> <img src="https://randommeme-five.vercel.app/" style="height: 400px;"/> </div>
-<h1 align="center">Hey👋, I'm Mudassiruddin</h1>
-<h3 align="center">Data Scientist & Web Developer with a knack of turning complex data into actionable insights and crafting delightful web experiences, 
-  I'm on a mission to make data both informative and beautiful. Let's dive into the world of data together! 📊💻 #DataScience </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+It's+Me+Mudassiruddin!!🌐✨;The+quantum+data+sorcerer+and+web-wizard!;+I+make+sense+out+of+data+chaos;Let's+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mudassiruddin7&show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="mudassiruddin7 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiruddin7&layout=compact&hide_border=true&title_color=0066cc&text_color=424245&bg_color=f5f5f7" />
+</div>
 
 Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 <img align="right" alt="Coding" width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
@@ -12,7 +16,6 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 - 💬 Ask me about Data Science 
 - 📫 How to reach me: mohd.mudassiruddin7@gmail.com 
 - ⚡ Fun fact: I Make Sense Out Of Data Chaos 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +37,3 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mudassiruddin7&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=mudassiruddin7)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiruddin7)](https://github.com/anuraghazra/github-readme-stats)  
