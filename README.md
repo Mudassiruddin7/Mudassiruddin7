@@ -15,7 +15,7 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 - 🤔 I’m looking for help with Open-Source Contributors 
 - 💬 Ask me about Data Science 
 - 📫 How to reach me: mohd.mudassiruddin7@gmail.com 
-- ⚡ Fun fact: I Make Sense Out Of Data Chaos 
+- ⚡ Fun fact: Numbers don't lie, they reveal!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
