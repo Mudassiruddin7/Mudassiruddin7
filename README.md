@@ -1,6 +1,6 @@
 <div align="center"> <img src='https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif' style="height: 400px;"/> </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Mudassiruddin!!🌐✨;Full-Time+Data+Geek+!!;+I+make+sense+out+of+data+chaos!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Mudassiruddin!!🌐✨;Full-Time+Data+Geek+!!;+I+make+data+talk+literally+with+LLM's!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mudassiruddin7&show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="mudassiruddin7 github stats" /> 
