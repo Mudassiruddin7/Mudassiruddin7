@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Mudassiruddin!!🌐✨;Full-Time+Data+Geek+!!;+I+make+data+talk+literally+with+LLM's!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mudassiruddin7&show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="mudassiruddin7 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiruddin7&layout=compact&hide_border=true&title_color=0066cc&text_color=424245&bg_color=f5f5f7" />
 </div>
 
