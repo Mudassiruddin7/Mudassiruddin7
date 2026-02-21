@@ -1,0 +1,25 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://mudassiruddin7.github.io/blogs/feed.xml"
+          max_post_count: 5
+          # The feed is already newest first, and posts in a month share a date.
+          disable_sort: true
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "UTC:mmm yyyy"
+          enable_keepalive: false
+          commit_message: "Update latest blog posts"
