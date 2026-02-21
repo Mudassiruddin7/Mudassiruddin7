@@ -21,6 +21,10 @@ I'm a researcher and builder from Hyderabad. I like finding out what models real
 
 **Open to:** working together on interpretability, edge ML and model verification.
 
+**Lately:** fixing bugs in TransformerLens, nnsight, Flower, Hugging Face datasets and skpro. Small [pull requests](https://github.com/pulls?q=is%3Apr+author%3AMudassiruddin7), each with tests.
+
+**Next:** Google Summer of Code 2027, starting with skpro.
+
 <br clear="left"/>
 
 ### What I work on
