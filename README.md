@@ -15,7 +15,7 @@
 ⚡ The spatial mapping layer was rewritten three times. The third failure became the architecture.
 <img align="right" alt="Research" width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 - Building: Perception (real-time navigation on sub-$20 hardware, zero internet, 80ms latency)
-- Publishing: 8 papers in 2026 (axRiv, JMLR, ACM Digital Library, Discover AI)
+- Publishing: 4 papers in 2026 (axRiv, JMLR, ACM Digital Library, Discover AI)
 - Researching: sparse circuit extraction in billion-parameter LLMs without full-graph traversal
 - Open to: research collaboration on mechanistic interpretability, federated systems, agentic AI
 - Reach me: mohd.mudassiruddin7@gmail.com
