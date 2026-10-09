@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=VT323&amp;size=36&amp;duration=2600&amp;pause=1400&amp;color=E924EF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=52&amp;lines=Hi%2C+I'm+Mudassir.;I+study+what+models+actually+compute.;142+ms+per+image+on+a+Raspberry+Pi+4.;Shipping+never+replaces+checking."/>
-    <img alt="Hi, I'm Mudassir. I study what models actually compute." src="https://readme-typing-svg.demolab.com/?font=VT323&amp;size=36&amp;duration=2600&amp;pause=1400&amp;color=A3159F&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=52&amp;lines=Hi%2C+I'm+Mudassir.;I+study+what+models+actually+compute.;142+ms+per+image+on+a+Raspberry+Pi+4.;Shipping+never+replaces+checking."/>
+    <img alt="Hi, I'm Mudassir Uddin. I study what models actually compute." src="https://readme-typing-svg.demolab.com/?font=VT323&amp;size=36&amp;duration=2600&amp;pause=1400&amp;color=A3159F&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=52&amp;lines=Hi%2C+I'm+Mudassir.;I+study+what+models+actually+compute.;142+ms+per+image+on+a+Raspberry+Pi+4.;Shipping+never+replaces+checking."/>
   </picture>
 </p>
 
