@@ -17,7 +17,7 @@ I'm a researcher and builder from Hyderabad. I like finding out what models real
 
 **Also:** checking whether a sepsis model's explanations predict what it does, with Prof. Hamdi Al-Jamimi at KFUPM.
 
-**Building:** [Vak](https://mudassiruddin7.github.io/#-ventures), AI literacy tools in Telugu and Hindi.
+**Building:** [Vak](https://github.com/Mudassiruddin7/Vak), AI literacy tools in Telugu and Hindi.
 
 **Open to:** working together on interpretability, edge ML and model verification.
 
